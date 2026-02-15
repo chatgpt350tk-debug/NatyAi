@@ -1,0 +1,2 @@
+# NatyAi
+Its Funy ai.
